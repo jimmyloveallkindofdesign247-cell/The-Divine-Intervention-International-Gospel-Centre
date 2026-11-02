@@ -1,0 +1,6 @@
+{
+  "name": "The Divine Intervention International Gospel Centre",
+  "description": "Official website for The Divine Intervention International Gospel Centre — finding your purpose, strengthening your faith, and growing in Christ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
